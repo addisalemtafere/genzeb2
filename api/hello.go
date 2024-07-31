@@ -8,7 +8,7 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
-func hello() {
+func Hello() {
 	// URL of the Bank of Abyssinia exchange rates page
 	url := "https://www.bankofabyssinia.com/ExchangeRate"
 
